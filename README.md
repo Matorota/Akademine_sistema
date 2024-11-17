@@ -7,4 +7,5 @@ o	Studentas turi galimybę peržiūrėti tik savo pažymius ir informaciją apie
 3.	Techninė įgyvendinimo dalis:
 o	Naudota C# ir Windows Forms (WinForms) technologija, leidžianti sukurti vartotojo sąsają, kurioje galima atlikti įvairius veiksmus pagal naudotojo teises.
 o	Duomenų bazė (AkademineDB) užtikrina duomenų saugojimą ir valdymą, kur administratoriui suteikiama galimybė atlikti visus valdymo veiksmus, dėstytojui — tik redaguoti savo įrašus, o studentui — tik peržiūrėti savo duomenis.
-Jei atsitinka error su database reiškia teks pakeisti path connection. Duonbazė randasi pagrindiniame folderyje.
+
+Jei atsitinka error su database reiškia teks pakeisti path connection. Duonbazė randasi pagrindiniame aplanke 'AkademineDB.mdf'.
