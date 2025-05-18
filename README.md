@@ -1,4 +1,22 @@
 # Akademine_sistema
+
+# Academic Management System 🎓
+
+WinForms app (C# + SQL Server) for managing students, teachers, and courses with role-based access.
+
+## Features
+- **Roles**: Admin (full access), Teacher (grade management), Student (view grades)
+- **Database**: SQL Server (LocalDB) with secure data storage
+- **Simple UI**: Windows Forms interface
+
+## Setup
+1. Clone repo
+2. Open `Akademine_sistema.sln` in Visual Studio
+3. Ensure `AkademineDB.mdf` is in project root
+4. Update connection string in `App.config` if needed
+5. Build & run
+
+   ## Lithuanian
 1.	Sistema ir jos struktūra: Sukurta akademinė sistema atitinka pagrindinius reikalavimus ir užtikrina skirtingų naudotojų tipų, tokių kaip administratorius, dėstytojas ir studentas, valdymą ir funkcionalumą. Kiekvienas naudotojas turi pritaikytą prieigą ir galimybes, kurios yra būtinos efektyviam akademiniam valdymui.
 2.	Funkcionalumas:
 o	Administratorius turi platų funkcionalumą, įskaitant studentų, dėstytojų, pamokų ir grupių valdymą. Jis gali atlikti CRUD operacijas su visais pagrindiniais duomenimis ir užtikrinti sistemos priežiūrą.
