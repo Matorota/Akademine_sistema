@@ -17,8 +17,9 @@ WinForms app (C# + SQL Server) for managing students, teachers, and courses with
 5. Build & run
 
    ## Lithuanian
-1.	Sistema ir jos struktūra: Sukurta akademinė sistema atitinka pagrindinius reikalavimus ir užtikrina skirtingų naudotojų tipų, tokių kaip administratorius, dėstytojas ir studentas, valdymą ir funkcionalumą. Kiekvienas naudotojas turi pritaikytą prieigą ir galimybes, kurios yra būtinos efektyviam akademiniam valdymui.
-2.	Funkcionalumas:
+### Aprasymas
+Sistema ir jos struktūra: Sukurta akademinė sistema atitinka pagrindinius reikalavimus ir užtikrina skirtingų naudotojų tipų, tokių kaip administratorius, dėstytojas ir studentas, valdymą ir funkcionalumą. Kiekvienas naudotojas turi pritaikytą prieigą ir galimybes, kurios yra būtinos efektyviam akademiniam valdymui.
+### Funkcionalumas:
 o	Administratorius turi platų funkcionalumą, įskaitant studentų, dėstytojų, pamokų ir grupių valdymą. Jis gali atlikti CRUD operacijas su visais pagrindiniais duomenimis ir užtikrinti sistemos priežiūrą.
 o	Dėstytojas gali įrašyti ir redaguoti studentų pažymius, taip pat matyti savo pamokas ir grupes, kas leidžia efektyviai stebėti studentų pažangą.
 o	Studentas turi galimybę peržiūrėti tik savo pažymius ir informaciją apie pamokas, užtikrinant, kad jo privatumą ir duomenų apsaugą būtų laikomasi.
